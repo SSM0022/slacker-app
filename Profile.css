@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+img {
+  border-radius: 50%;
+  width: 20rem;
+  margin: 1.5625rem;
+}
+aside {
+  float: left;
+  margin: 2.1875rem;
+  width: 31%;
+}
+h1 {
+  color: #471c9c;
+  font-weight: normal;
+  margin-left: 26.875rem;
+  margin-bottom: 0.3em;
+  font-size: 2.1875rem;
+}
+.account {
+  display: inline-block;
+  color: #471c9c;
+  padding-top: 0.625rem;
+  margin-top: -0.9375rem;
+  font-weight: normal;
+  font-size: 1.5rem;
+  margin-left: 1.25rem;
+}
+#user-handle {
+  margin-right2: 9.375rem;
+}
+i {
+  position: relative;
+  left: 21.875rem;
+}
+#user-location {
+  position: relative;
+  left: 21.875rem;
+  font-size: 0.9rem;
+  font-weight: normal;
+}
+
+#user-description {
+  color: #858b9b;
+  line-height: 1.5rem;
+  margin-top: 0.3125rem;  
+}
+.contact {
+  color: #471c9c;
+  display: inline-block;
+  width: 6.25rem;
+  padding: 0.5rem;
+  line-height: 2rem;
+  font-weight: 550;
+  margin-right: 2rem;
+}
+p {
+  color: black;
+  margin-left: 26.875rem;
+}
+hr {
+  display: block;
+  height: 0.0625rem;
+  border: 0;
+  border-top: 0.125rem solid #471c9c;
+}
